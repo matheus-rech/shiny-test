@@ -1,0 +1,25 @@
+shiny @ git+https://github.com/posit-dev/py-shiny@77a67927
+python-dotenv
+anthropic
+
+# For emails
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+markdown
+pandas
+requests
+
+# For meta-analysis in R
+meta
+metafor
+ggplot2
+plotly
+rmarkdown
+naniar
+mice
+dplyr
+knitr
+kableExtra
+robvis
